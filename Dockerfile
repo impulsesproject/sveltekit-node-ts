@@ -7,4 +7,6 @@ RUN npm i -g npm@latest && curl --compressed -o- -L https://yarnpkg.com/install.
 WORKDIR /workspace
 COPY . .
 
+RUN chmod +x .devcontainer/postCreate.sh
+
 
