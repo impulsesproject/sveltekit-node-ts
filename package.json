@@ -23,6 +23,7 @@
 		"eslint-config-prettier": "^9.0.0",
 		"eslint-plugin-svelte": "next",
 		"prettier": "^3.0.3",
+		"prettier-plugin-svelte": "^3.1.2",
 		"svelte": "^4.2.8",
 		"svelte-check": "^3.5.2",
 		"svelte-preprocess": "^5.1.0",
