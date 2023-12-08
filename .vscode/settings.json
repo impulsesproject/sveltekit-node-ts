@@ -23,7 +23,7 @@
     "editor.tabSize": 2,
     "editor.linkedEditing": true,
   
-    "eslint.validate": ["javascript"],
+    "eslint.validate": ["javascript", "typescript", "svelte"],
     "eslint.workingDirectories": [{ "mode": "auto" }],
   
     "todo-tree.general.statusBar": "total",
